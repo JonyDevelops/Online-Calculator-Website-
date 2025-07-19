@@ -1,6 +1,6 @@
 ﻿# Calculator
 
-DO NOT USE DEVELOPMENT IN PROGRESS
+Development in Progress Coming Soon!
 (WIP)
 
 ## Built with
